@@ -46,6 +46,8 @@ public class MainActivity extends AppCompatActivity {
                 subscriber.onNext("上山打老虎");
                 subscriber.onNext("老虎一发威");
                 subscriber.onNext("武松就发怵");
+                subscriber.onNext("武松就发怵");
+                subscriber.onNext("武松就发怵");
                 subscriber.onCompleted();
 
             }
