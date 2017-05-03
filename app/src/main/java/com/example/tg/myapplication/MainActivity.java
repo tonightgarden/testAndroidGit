@@ -66,6 +66,9 @@ public class MainActivity extends AppCompatActivity {
             public void onNext(String s) {
                 Log.d("TG",s);
                 Log.d("TG",s);
+                Log.d("TG",s);
+                Log.d("TG",s);
+
 
             }
         });
